@@ -11,5 +11,6 @@
 - ⚡ Fun fact: I have a Computer Science degree but never worked in IT 🗺️ After switching career goals, I have returned with a new passion to learn about all things web development!
 
   Technigo: https://www.technigo.io/
+  
   The Ultimate React Course 2024: React, Redux & More: https://www.udemy.com/course/the-ultimate-react-course/
 
