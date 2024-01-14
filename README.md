@@ -4,7 +4,7 @@
 <!--
 **BeckieMorton/BeckieMorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-💻 TECH: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, Web Accessibility, APIs, mob and paired programming, GitHub 💻
+💻 TECH: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, Web Accessibility, APIs, mob and paired programming, GitHub
 
 - 🔭 I’m currently working on weekly projects for my Technigo Web Development BootCamp (I will graduate in January 2024) + completing The Ultimate React Course @ udemy 🤩
 - 🌱 I’m currently learning: Adding to my final project https://airportfinder.netlify.app/ and perfecting my portfolio
