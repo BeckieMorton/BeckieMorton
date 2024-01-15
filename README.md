@@ -12,8 +12,8 @@
 #UPDATE# GRADUATED! CLASS OF AUTUMN 2023! Well done!
 
 - 🔭 <ins>I’m currently working on</ins>: Perfecting my portfolio to be job ready 👩‍💻 and finalising my final project (which I am super proud of!) + completing The Ultimate React Course @ udemy 🤩
-- 🌱 I’m currently learning: More about React libraries and Tailwind CSS
-- ⚡ Fun fact: I have a Computer Science degree but never worked in IT 🗺️ After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
+- 🌱 <ins>I’m currently learning<ins>: More about React libraries and Tailwind CSS
+- ⚡ <ins>Fun fact</ins>: I have a Computer Science degree but never worked in IT 🗺️ After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
 
 
 My final project: 
