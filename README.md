@@ -13,7 +13,7 @@
 
 - 🔭 <ins>I’m currently working on</ins>: Perfecting my portfolio to be job ready 👩‍💻 and finalising my final project (which I am super proud of!) + completing The Ultimate React Course @ udemy 🤩
 - 🌱 <ins>I’m currently learning<ins>: More about React libraries and Tailwind CSS
-- ⚡ <ins>Fun fact</ins>: I have a Computer Science degree but never worked in IT 🗺️ After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
+- ⚡ <ins>Fun fact</ins>: I've lived and worked on 4 continents 🌍 I have a Computer Science degree and have been a compute rnerd since I was a teenager, but I never worked in Tech. After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
 
 
 My final project: 
