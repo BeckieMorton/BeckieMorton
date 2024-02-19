@@ -11,8 +11,8 @@
 
 #UPDATE# GRADUATED! CLASS OF AUTUMN 2023!
 
-- 🔭 <ins>I’m currently working on</ins>: Perfecting my portfolio to be job ready 👩‍💻 + Creating an EdTech SPA using the Met Museum free API and React + completing The Ultimate React Course @ udemy 🤩
-- 🌱 <ins>I’m currently learning</ins>: Typescript, bootstrap, refreshing my WordPress skills
+- 🔭 <ins>I’m currently working on</ins>: Creating an EdTech React App using the Met Museum free API and React + completing The Ultimate React Course @ udemy 🤩
+- 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills
 - ⚡ <ins>Fun fact</ins>: I've lived and worked on 4 continents 🌍 I have a Computer Science degree and have been a computer nerd since I was a teenager, but I never worked in Tech. After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
 
 
