@@ -7,7 +7,7 @@
 💻 <ins>Tech</ins>: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, Web Accessibility, APIs, mob and paired programming, GitHub, Tailwind
 
 
-🎓 <ins>Education</ins>: FullStack Webdevelopment Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
+🎓 <ins>Education</ins>: Full Stack Web Development Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
 
 
 - 🔭 <ins>I’m currently working on</ins>:
