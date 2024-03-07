@@ -7,9 +7,8 @@
 💻 <ins>Tech</ins>: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, Web Accessibility, APIs, mob and paired programming, GitHub, Tailwind
 
 
-🎓 <ins>Education</ins>: Master of Teaching (Primary) 👩‍🏫 , Bachelor of Computing 👩‍💻, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
+🎓 <ins>Education</ins>: FullStack Webdevelopment Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
 
-#UPDATE# GRADUATED! CLASS OF AUTUMN 2023!
 
 - 🔭 <ins>I’m currently working on</ins>:
     ~ 2 freelance projects (a small consulting business website and a small cleaning/handyman business website)<br>
