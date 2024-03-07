@@ -10,9 +10,9 @@
 🎓 <ins>Education</ins>: Full Stack Web Development Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
 
 
-- 🔭 <ins>I’m currently working on</ins>:
+- 🔭 <ins>I’m currently working on</ins>:<br>
     ~ 2 freelance projects (a small consulting business website and a small cleaning/handyman business website)<br>
-    ~ Creating an EdTech React App using the Met Museum free API and React<br>
+    ~ Creating an EdTech React App using the Met Museum free API<br>
     ~ Completing The Ultimate React Course @ udemy 🤩<br>
   
 - 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills
