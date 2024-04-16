@@ -18,10 +18,10 @@
   
 - 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills
   
-- ⚡ <ins>Fun fact</ins>: I've lived and worked on 4 continents 🌍 I have a Computer Science degree and have been a computer nerd since I was a teenager, but I never worked in Tech. After switching career goals, I have returned as an educator with a new passion to learn about all things web development!
+- ⚡ <ins>Fun fact</ins>: I've lived and worked on 4 continents 🌍 I have a Computer Science degree and have been a computer nerd since I was a teenager. After switching careers, I have returned as an educator with a new passion to learn about all things web development!
 
 
-My final project: 
+My final Technigo bootcamp project: 
 
 Frontend: https://airportfinder.netlify.app/
 Backend: https://final-project-airportfinder.onrender.com/
