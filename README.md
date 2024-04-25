@@ -14,7 +14,7 @@
     ~ 2 freelance projects (a small consulting business website and a small cleaning/handyman business website)<br>
     ~ Creating an EdTech React App using the Met Museum free API<br>
     ~ Creating a teacher Dashboard for classroom display (new idea I'm working on)<br>
-    ~ Completing The Ultimate React Course @ udemy 🤩<br>
+    ~ Completing The Ultimate React Course and The 15 Days of SQL @ udemy 🤩<br>
   
 - 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills
   
