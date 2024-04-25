@@ -16,7 +16,7 @@
     ~ Creating a teacher Dashboard for classroom display (new idea I'm working on)<br>
     ~ Completing The Ultimate React Course and The 15 Days of SQL @ udemy 🤩<br>
   
-- 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills
+- 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills and SQL knowledge
   
 - ⚡ <ins>Fun fact</ins>: I've lived and worked on 4 continents 🌍 I have a Computer Science degree and have been a computer nerd since I was a teenager. After switching careers, I have returned as an educator with a new passion to learn about all things web development!
 
