@@ -4,7 +4,7 @@
 <!--
 **BeckieMorton/BeckieMorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-💻 <ins>Tech</ins>: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, Web Accessibility, APIs, mob and paired programming, GitHub, Tailwind
+💻 <ins>Tech</ins>: HTML, CSS, JavaScript, React, Node.js, Express API, MongoDB, PostgresSQL, Web Accessibility, APIs, mob and paired programming, GitHub, Tailwind
 
 
 🎓 <ins>Education</ins>: Full Stack Web Development Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
@@ -14,7 +14,7 @@
     ~ 2 freelance projects (a small consulting business website and a small cleaning/handyman business website)<br>
     ~ Creating an EdTech React App using the Met Museum free API<br>
     ~ Creating a teacher Dashboard for classroom display (new idea I'm working on)<br>
-    ~ Completing The Ultimate React Course and The 15 Days of SQL @ udemy 🤩<br>
+    ~ Completing The Ultimate React Course and The 15 Days of SQL @ Udemy 🤩<br>
   
 - 🌱 <ins>I’m currently learning</ins>: Typescript, refreshing my WordPress skills and SQL knowledge
   
