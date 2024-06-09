@@ -9,10 +9,13 @@
 
 🎓 <ins>Education</ins>: Full Stack Web Development Bootcamp @ Technigo 👩‍💻, Bachelor of Computing 👩‍💻,  Master of Teaching (Primary) 👩‍🏫, Associate Degree in Policing Practice 👮, Level 5 Certificate in TEFL 👩‍🏫
 
+- 🔭 <ins>I just I made</ins>:<br>
+  ~ a currency converter with the free Exchangerate-API<br>
+    ~ an UI/EdTech React App using the Met Museum free API<br>
 
+    
 - 🔭 <ins>I’m currently working on</ins>:<br>
     ~ 2 freelance projects (a small consulting business website and a small cleaning/handyman business website)<br>
-    ~ Creating an EdTech React App using the Met Museum free API<br>
     ~ Creating a teacher Dashboard for classroom display (new idea I'm working on)<br>
     ~ Completing The Ultimate React Course, and The 15 Days of SQL @ Udemy 🤩<br>
   
@@ -23,7 +26,7 @@
 - Working hard to develop my skills and open to any opportunities, internships or junior developer roles 🤞
 
 
-My final Technigo bootcamp project: 
+My final fullstack Technigo bootcamp project: 
 
 Frontend: https://airportfinder.netlify.app/
 Backend: https://final-project-airportfinder.onrender.com/
